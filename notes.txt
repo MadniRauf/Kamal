@@ -1,0 +1,10 @@
+Key Enhancements:
+Responsive Design:
+
+Flexbox Example: The flex-wrap: wrap; property allows content to wrap when the screen is small. Media queries adjust the layout for screens below 768px and 480px.
+CSS Grid Example: The grid layout adjusts to a single-column format when the screen width is below 768px, making it mobile-friendly.
+Hover Effects: Both examples include a subtle hover effect on navigation links for better user interaction.
+
+Transitions: The hover effect is enhanced with a smooth transition, improving the user experience.
+
+These enhancements make the websites more functional and appealing across various devices and screen sizes.
